@@ -1,0 +1,1 @@
+g++ -std=c++14 -g -Wall -Wextra ass1.cpp turtleprogram.cpp -o ass1

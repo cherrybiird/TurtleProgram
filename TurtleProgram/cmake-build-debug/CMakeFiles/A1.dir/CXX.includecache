@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/starw/OneDrive/Documents/GitHub/CSS-343-A1/A1.cpp
+turtleprogram.h
+C:/Users/starw/OneDrive/Documents/GitHub/CSS-343-A1/turtleprogram.h
+iostream
+-
+
+C:/Users/starw/OneDrive/Documents/GitHub/CSS-343-A1/turtleprogram.cpp
+turtleprogram.h
+C:/Users/starw/OneDrive/Documents/GitHub/CSS-343-A1/turtleprogram.h
+iostream
+-
+
+C:/Users/starw/OneDrive/Documents/GitHub/CSS-343-A1/turtleprogram.h
+iostream
+-
+string
+-
+
