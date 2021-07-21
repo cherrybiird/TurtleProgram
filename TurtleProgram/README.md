@@ -1,5 +1,3 @@
-# CSS-343-A1
-## Assigment 1 for CSS 343
 The premise of this program is to create a turtleprogram with the following inputs:
 \
 p1 = [F 10]
