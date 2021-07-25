@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/starw/OneDrive/Documents/GitHub/CSS-343-A1/A1.cpp" "C:/Users/starw/OneDrive/Documents/GitHub/CSS-343-A1/cmake-build-debug/CMakeFiles/A1.dir/A1.cpp.obj"
-  "C:/Users/starw/OneDrive/Documents/GitHub/CSS-343-A1/turtleprogram.cpp" "C:/Users/starw/OneDrive/Documents/GitHub/CSS-343-A1/cmake-build-debug/CMakeFiles/A1.dir/turtleprogram.cpp.obj"
+  "C:/Users/starw/OneDrive/Documents/GitHub/TurtleProgram/TurtleProgram/A1.cpp" "C:/Users/starw/OneDrive/Documents/GitHub/TurtleProgram/TurtleProgram/cmake-build-debug/CMakeFiles/A1.dir/A1.cpp.obj"
+  "C:/Users/starw/OneDrive/Documents/GitHub/TurtleProgram/TurtleProgram/turtleprogram.cpp" "C:/Users/starw/OneDrive/Documents/GitHub/TurtleProgram/TurtleProgram/cmake-build-debug/CMakeFiles/A1.dir/turtleprogram.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")
 

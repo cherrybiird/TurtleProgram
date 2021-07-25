@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/starw/OneDrive/Documents/GitHub/CSS-343-A1/cmake-build-debug"/>
+				<Option working_dir="C:/Users/starw/OneDrive/Documents/GitHub/TurtleProgram/TurtleProgram/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\CSS-343-A1\cmake-build-debug\Makefile VERBOSE=1 all"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\CSS-343-A1\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\CSS-343-A1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\CSS-343-A1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\TurtleProgram\TurtleProgram\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\TurtleProgram\TurtleProgram\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\TurtleProgram\TurtleProgram\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\TurtleProgram\TurtleProgram\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="A1">
-				<Option output="C:/Users/starw/OneDrive/Documents/GitHub/CSS-343-A1/cmake-build-debug/A1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/starw/OneDrive/Documents/GitHub/CSS-343-A1/cmake-build-debug"/>
+				<Option output="C:/Users/starw/OneDrive/Documents/GitHub/TurtleProgram/TurtleProgram/cmake-build-debug/A1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/starw/OneDrive/Documents/GitHub/TurtleProgram/TurtleProgram/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -34,15 +34,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\CSS-343-A1\cmake-build-debug\Makefile VERBOSE=1 A1"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\CSS-343-A1\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\CSS-343-A1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\CSS-343-A1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\TurtleProgram\TurtleProgram\cmake-build-debug\Makefile VERBOSE=1 A1"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\TurtleProgram\TurtleProgram\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\TurtleProgram\TurtleProgram\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\TurtleProgram\TurtleProgram\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="A1/fast">
-				<Option output="C:/Users/starw/OneDrive/Documents/GitHub/CSS-343-A1/cmake-build-debug/A1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/starw/OneDrive/Documents/GitHub/CSS-343-A1/cmake-build-debug"/>
+				<Option output="C:/Users/starw/OneDrive/Documents/GitHub/TurtleProgram/TurtleProgram/cmake-build-debug/A1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/starw/OneDrive/Documents/GitHub/TurtleProgram/TurtleProgram/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -57,43 +57,43 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\CSS-343-A1\cmake-build-debug\Makefile VERBOSE=1 A1/fast"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\CSS-343-A1\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\CSS-343-A1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\CSS-343-A1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\TurtleProgram\TurtleProgram\cmake-build-debug\Makefile VERBOSE=1 A1/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\TurtleProgram\TurtleProgram\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\TurtleProgram\TurtleProgram\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\TurtleProgram\TurtleProgram\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/starw/OneDrive/Documents/GitHub/CSS-343-A1/cmake-build-debug"/>
+				<Option working_dir="C:/Users/starw/OneDrive/Documents/GitHub/TurtleProgram/TurtleProgram/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\CSS-343-A1\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\CSS-343-A1\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\CSS-343-A1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\CSS-343-A1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\TurtleProgram\TurtleProgram\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\TurtleProgram\TurtleProgram\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\TurtleProgram\TurtleProgram\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\TurtleProgram\TurtleProgram\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/starw/OneDrive/Documents/GitHub/CSS-343-A1/cmake-build-debug"/>
+				<Option working_dir="C:/Users/starw/OneDrive/Documents/GitHub/TurtleProgram/TurtleProgram/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\CSS-343-A1\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\CSS-343-A1\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\CSS-343-A1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\CSS-343-A1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\TurtleProgram\TurtleProgram\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\TurtleProgram\TurtleProgram\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\TurtleProgram\TurtleProgram\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\starw\OneDrive\Documents\GitHub\TurtleProgram\TurtleProgram\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/starw/OneDrive/Documents/GitHub/CSS-343-A1/A1.cpp">
+		<Unit filename="C:/Users/starw/OneDrive/Documents/GitHub/TurtleProgram/TurtleProgram/A1.cpp">
 			<Option target="A1"/>
 		</Unit>
-		<Unit filename="C:/Users/starw/OneDrive/Documents/GitHub/CSS-343-A1/turtleprogram.cpp">
+		<Unit filename="C:/Users/starw/OneDrive/Documents/GitHub/TurtleProgram/TurtleProgram/turtleprogram.cpp">
 			<Option target="A1"/>
 		</Unit>
-		<Unit filename="C:/Users/starw/OneDrive/Documents/GitHub/CSS-343-A1/turtleprogram.h">
+		<Unit filename="C:/Users/starw/OneDrive/Documents/GitHub/TurtleProgram/TurtleProgram/turtleprogram.h">
 			<Option target="A1"/>
 		</Unit>
-		<Unit filename="C:/Users/starw/OneDrive/Documents/GitHub/CSS-343-A1/CMakeLists.txt">
+		<Unit filename="C:/Users/starw/OneDrive/Documents/GitHub/TurtleProgram/TurtleProgram/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
